@@ -22,6 +22,8 @@ pip install -r requirements.txt
 
 # launch the app
 streamlit run 1_RAG_pdf_OS_LangChain.py
+```
 
-### Acknowledgment:
-This repository is an extension of the ideas discussed in “Building a RAG Model with Open-Source Tools – A Journey into PDF Search” by Srinivasan Ramanujam — available on LinkedIn: https://www.linkedin.com/pulse/building-rag-model-open-source-tools-journey-pdf-search-ramanujam-duxvc/
+### Acknowledgment
+This repository is an extension of the ideas discussed in “Building a RAG Model with Open-Source Tools – A Journey into PDF Search”
+by Srinivasan Ramanujam — available on LinkedIn: https://www.linkedin.com/pulse/building-rag-model-open-source-tools-journey-pdf-search-ramanujam-duxvc/
